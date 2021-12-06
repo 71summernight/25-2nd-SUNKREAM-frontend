@@ -25,7 +25,7 @@
 
 ## 🎬 프로젝트 구현 영상
 
-- 🔗 [https://youtu.be/N63MUdDmDFI] : 
+- 🔗 [구현영상] : https://youtu.be/N63MUdDmDFI
 
 ## ⚙ 적용 기술
 
